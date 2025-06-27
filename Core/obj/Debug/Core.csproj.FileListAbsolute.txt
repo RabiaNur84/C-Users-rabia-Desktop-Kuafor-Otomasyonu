@@ -1,0 +1,6 @@
+C:\Users\caner\Documents\Kuafor-Otomasyonu\Core\bin\Debug\Core.dll
+C:\Users\caner\Documents\Kuafor-Otomasyonu\Core\bin\Debug\Core.pdb
+C:\Users\caner\Documents\Kuafor-Otomasyonu\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\caner\Documents\Kuafor-Otomasyonu\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\caner\Documents\Kuafor-Otomasyonu\Core\obj\Debug\Core.dll
+C:\Users\caner\Documents\Kuafor-Otomasyonu\Core\obj\Debug\Core.pdb
